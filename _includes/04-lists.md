@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Research Interest
+  - Computer Vision
+  - Deep Learning
+  - NLP
+  
+- Sports
+  - BodyPump
+  - TRX
+  - Swimming
+  - Badminton
