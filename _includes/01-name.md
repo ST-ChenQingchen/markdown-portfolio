@@ -1,1 +1,3 @@
-# Chenqingchen From SenseTime
+# Chen Qingchen 
+### Associate Manager of SenseTime University Relationship
+### Beihang University 
