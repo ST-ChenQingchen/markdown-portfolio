@@ -3,11 +3,11 @@
   - *Photographer*
   - _Foodie_ 
 
-- ## **##Language**
+- ## **Language**
   - **Chinese**
   - English
   - Spanish  
 
-- ## **##Skills**
+- ## **Skills**
   - Office
   - PS 
