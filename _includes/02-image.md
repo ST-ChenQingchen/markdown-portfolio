@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![My Avatar](https://github.com/ST-ChenQingchen/markdown-portfolio//Chen_RavenPattern_Square.png)
