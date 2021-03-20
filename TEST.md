@@ -11,7 +11,7 @@
 -   `/home/<user_name>`是各位同学自己的用户目录，用户目录之外的文件夹请不要访问，以免影响机器环境
 -   安装python库时，建议通过`pip3 install <pkg_name> --user`命令安装
 
-![](/Users/chenqingchen/Desktop/thuacv/Screen Shot 2021-03-19 at 20.00.38.png)
+![](/thuacv/Screen Shot 2021-03-19 at 20.00.38.png)
 
 ### 验证评测命令(xsubmit)可用
 
